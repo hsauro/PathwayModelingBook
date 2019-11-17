@@ -1,5 +1,5 @@
 # Written and supplied by Wilbert Copeland, 2014
-# Differential evolution code, used to fit the Henirich model (Figure 8.15)
+# Differential evolution code, used to fit the Henrich model (Figure 8.15)
 import random
 import sys
 from datetime import datetime
